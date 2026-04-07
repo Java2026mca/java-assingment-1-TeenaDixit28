@@ -19,7 +19,6 @@ public class Main {
             System.out.println();
         }
         for (int i = n - 1; i >= 1; i--) {
-            // Print leading spaces
             for (int j = 1; j <= n - i; j++) {
                 System.out.print(" ");
             }
@@ -30,7 +29,6 @@ public class Main {
                     System.out.print(" ");
                 }
             }
-
             System.out.println();
         }
     }

@@ -1,4 +1,3 @@
-package.q01
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
@@ -15,7 +14,6 @@ public class Main {
                     System.out.print(" ");
                 }
             }
-
             System.out.println();
         }
         for (int i = n - 1; i >= 1; i--) {
